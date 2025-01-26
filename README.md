@@ -1,13 +1,13 @@
 # JSON Visualiser (WebApp)
 
-The JSON Visualiser Web App is designed to help you visualise your `.json` data in a more structured manner, without overloading your eyes when the `.json` is succeptably big.
+The JSON Visualiser Web App is designed to help you visualise your `json` data in a more structured manner, without overloading your eyes when the `.json` is succeptably big.
 
 # Running this locally
 
 If you want to run this locally you'll need the following:
 
 - Node.JS
-- PNPM/YARN/NPM
+- Pnpm/Yarn/npm
 - Docker (optional)
 
 
